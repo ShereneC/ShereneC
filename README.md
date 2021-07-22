@@ -1,4 +1,3 @@
-[Carter_Personal_SWOT_Analysis_Worksheet.pdf](https://github.com/ShereneC/ShereneC/files/6859623/Carter_Personal_SWOT_Analysis_Worksheet.pdf)
 ### Hi there 👋 
 I have worked in Nevada and Idaho middle schools as a science, computer, and STEM teacher for 18 years. I am now a full-stack developer student enrolled at Boise Codeworks!
 
