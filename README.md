@@ -7,7 +7,6 @@ I have worked in Nevada and Idaho middle schools as a science, computer, and STE
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Week 4 @BoiseCodeWorks
 - 🌱 I’m currently learning JavaScript
 <!--👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with JavaScript
